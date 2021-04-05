@@ -36,7 +36,6 @@ import React, { useState } from "react";
 		    	</div>
 		    </div>
         </div>    
-
 	);
 }
 export default TrafficLight;
